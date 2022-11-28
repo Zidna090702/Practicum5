@@ -30,3 +30,24 @@ and for the outpus as below
 - Add data
 
 ![image](https://user-images.githubusercontent.com/115474076/204167970-988005ee-d551-43ae-ad7d-e22945fabdae.png)
+
+- Change
+
+![image](https://user-images.githubusercontent.com/115474076/204205213-7007505e-e31a-4ddd-ba52-ddc1ab1587fb.png)
+
+
+- Deleted
+
+![image](https://user-images.githubusercontent.com/115474076/204205356-0b38f8c5-8923-402c-94bd-9dfbf83e66ba.png)
+
+
+- Search data
+
+![image](https://user-images.githubusercontent.com/115474076/204205705-e5f7ad81-95a5-4d52-b25d-a903ea87f72c.png)
+
+- Close aplikasi
+
+![image](https://user-images.githubusercontent.com/115474076/204205818-a560042c-924f-441a-aeb8-4f8fb9e14b79.png)
+
+
+
